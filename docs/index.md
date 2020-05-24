@@ -1,41 +1,51 @@
 ---
-title: My Android project
-description: "Trust me, it'll be cool"
+title: lofi Studio 1.0
+description: "Custom lofi Beats For Everyone"
 layout: default
 ---
 
 ## Summary
 
-Replace this paragraph with one or more paragraphs summarizing the purpose and operation of the Android app you propose to develop in this project.
+_lofi Studio_ 1.0 is an intuitive beat-maker for those who enjoy the calming sounds of lofi, and for those who have yet to discover it. It is also a way to seamlessly mix lofi beats, so that your workflow or relaxation time will not be interupted by harsh volume differences or ads.
 
-## Intended users
+## Intended users 
 
-Write a bullet list here, including at least 2 different types of intended users. Make it reasonably specific; simply saying "Anyone who likes games" (for example) is not sufficiently specific.
+* Students who have trouble finding lofi stations that don't include distracting features or abrupt changes in tempo or volume.
+	
+	> I love having lofi on in the background when i'm studying, but sometimes the track selection will take me out of the zone. I need something that will help me create a playlist of sounds that will keep me focused 100% of the time when im studying.
 
-For each type of intended user, include at least 1 _user story_. A user story is usually just 1 simple sentence (no more than 2 sentences), in the voice of the intended user, stating a specific task that the user needs to perform, and the benefit that will be obtained. The simplest user stories take the form 
+* Relaxation seekers who want better control of the music they listen to when relaxing.
 
-> As a <type of intended user (_who_)> I want to <goal (_what_)> so that <benefit (_why_).
+	> As an avid wino, I need a way to create mixes that I can blackout to whilst enjoying some decently priced cab from Trader Joes in the tub.
 
-Please avoid writing too much for the user story. In particular, if the way the user story is written makes it difficult to see the _who_, _what_, and _why_, then you probably need to re-write it more directly. (On the other hand, a user story should not simply be a re-statement of the intended user description.)
+* Aspiring producers or kids that want to learn the basics of beat making.
 
-Here is one (silly) example of an intended user, along with a user story. Please note not only the conceptual structure, but the Markdown syntax used.
-
-* People who like to use randomness in their decision making.
-
-    > As someone who enjoys randomness in my life, I need an app that lets me flip a virtual coin or roll one or more virtual dice, so that I can base my decisions on randomness, without having to carry coins or dice in my pockets.
-
+	> I want to be the next Dj Khaled, but I don't know the first thing about making beats! I need an easy-to-use program that will teach me the basics of song structure.
+	
 ## Functionality
 
-List (using a bullet list&mdash;or ordered list, if order is relevant) the key functional aspects that will be provided by the app&mdash;i.e. tell us what the user will be able to do using the app. This should not simply be a re-statement of the [summary](#summary), but should instead provide a more specific articulation of the functionality and user experience. 
+1. Create loop-based lofi beats using a high-quality selection of low-fidelity sounds.
+
+2. Create playlists of custom beats for all you lofi needs.
+
+3. Create mixes that seamlessly weave your beats together based on tempo and key.
 
 ## Persistent data
 
-List, in general terms and using a bullet list, what content will be stored on the client side. This should include any information that users of your system would expect to be maintained (i.e. without connection to a server) across multiple sessions of use. 
+* Individual beats 
+
+* Playlists
+
+* Custom mixes
     
 ## Device/external services
 
-If the client component will need to access special services of the device (e.g. sensors, contacts, messaging), list them here using a bullet list. Also, if the client component will need to access already-existing external services (e.g. real-time weather data, Open Movie Database, Open Trivia Database), those should also be listed here; any such references to external services should include links to the main page or API description page for the service.
+* Play Music supported.
+
+* Export your mixes to Soundcloud, Spotify, or Youtube.   
 
 ## Stretch goals/possible enhancements 
 
-If you can identify functional elements of the software that you think might not be achievable in the scope of the project, but which would nonetheless add significant value if you were able to include them, list them here. For now, we recommend listing them in order of complexity/amount of work, from the least to the most.
+1. Step-sequence for better control of beats.
+
+2. Simple in-app re-creation of the Roland D-50 Synthesizer.
