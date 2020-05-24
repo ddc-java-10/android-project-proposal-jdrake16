@@ -1,9 +1,9 @@
 theme: jekyll-theme-leap-day
-title: Android Project Proposal
+title: lofi Studio 1.0
 show_downloads: true
-titles_from_headings:
+titles_from_headings: An intuitive beat-maker for those who enjoy the calming sounds of lofi, and a platform to seamlessly mix lofi beats, or create custom playlists for all of you lofi needs.
   enabled: false
 author:
   name: "Jason Drake"
-  href: "https://github.com/jdrake16"
+  href: "https://www.github.com/jdrake16"
   
