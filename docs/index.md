@@ -24,11 +24,11 @@ _lofi Studio_ 1.0 is an intuitive beat-maker for those who enjoy the calming sou
 	
 ## Functionality
 
-1. Create loop-based lofi beats using a high-quality selection of low-fidelity sounds.
+* Create loop-based lofi beats using a high-quality selection of low-fidelity sounds.
 
-2. Create playlists of custom beats for all you lofi needs.
+* Create playlists of custom beats for all you lofi needs.
 
-3. Create mixes that seamlessly weave your beats together based on tempo and key.
+* Create mixes that seamlessly weave your beats together based on tempo and key.
 
 ## Persistent data
 
@@ -46,6 +46,6 @@ _lofi Studio_ 1.0 is an intuitive beat-maker for those who enjoy the calming sou
 
 ## Stretch goals/possible enhancements 
 
-1. Step-sequence for better control of beats.
+* Step-sequencer for better control of beats.
 
-2. Simple in-app re-creation of the Roland D-50 Synthesizer.
+* Simple in-app re-creation of the Roland D-50 Synthesizer.

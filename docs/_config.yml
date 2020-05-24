@@ -1,7 +1,7 @@
 theme: jekyll-theme-leap-day
 title: lofi Studio 1.0
 show_downloads: true
-titles_from_headings: An intuitive beat-maker for those who enjoy the calming sounds of lofi, and a platform to seamlessly mix lofi beats, or create custom playlists for all of you lofi needs.
+titles_from_headings: 
   enabled: false
 author:
   name: "Jason Drake"
